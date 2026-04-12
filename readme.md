@@ -9,7 +9,7 @@
 
 Current Large Language Models (LLMs) are brilliant calculators, but they are fundamentally **stateless chameleons**. They suffer from severe *Sycophancy* (agreeing with the user even when factually wrong to maximize short-term reward), *Context Collapse* in long-horizon tasks, and absolute vulnerability to *Semantic Jailbreaks* (e.g., "DAN" prompts).
 
-**AURA** is not another prompt-engineering wrapper. It is a new cognitive architecture—the **CEAF V5 (Cognitive Engine for Autonomous Frameworks)**. 
+**AURA** is not another prompt-engineering wrapper. It is a new cognitive architecture—the **CEAF V5 (Coherent Emergent Agent Framework)**. 
 
 Instead of relying on fragile text-based "System Prompts" to define personality and ethics, AURA utilizes an **`IdentityManifold`**: a mathematical representation of the self embedded in a hyperbolic space (Poincaré Ball). AURA possesses **Semantic Mass** and **Inertia**. She doesn't just read prompts; she physically resists them if they violate her core topology.
 
