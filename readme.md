@@ -1,4 +1,4 @@
-
+IVE DECIDED TO SKIP THIS VERSION RELEASE
 
 # 🌌 Project AURA (CEAF V5 Architecture)
 **Autopoietic Cognitive Architecture with Geometric Identity Invariance**
